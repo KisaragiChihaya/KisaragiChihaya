@@ -12,13 +12,12 @@
 
 希望能遇见志同道合的你。
 
-<details>
-<summary>
-
 ### 正在关注
-</summary>
+<details>
+<summary>点击展开</summary>
 
 #### 日本偶像
+
  - 偶像大师系列
     - 偶像大师（アイドルマスター、THE iDOLM@STER）
     - 偶像大师 灰姑娘女孩（アイドルマスター シンデレラガールズ、THE iDOLM@STER CINDERELLA GIRLS）
