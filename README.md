@@ -160,20 +160,27 @@
  - Android
  - 摄影
  - 业余无线电
+</details>
 
 ### 有兴趣
+<details>
+<summary>点击展开</summary>
+
  - 超时空要塞系列
  - 少女☆歌剧 Revue Starlight系列
  - Wake Up Girls!
  - 偶像活动！系列
  - 美妙系列
  - 秋元康
+ </details>
 
 ### 不活跃
+<details>
+<summary>点击展开</summary>
+
  - VOCALOID系列
  - 东方Project系列
  - 阳炎Project系列
  - 天朝铁道少女
  - 轻音少女
-
- </details>
+</details>
