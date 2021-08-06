@@ -24,6 +24,12 @@
     - 偶像大师 百万现场！（アイドルマスター ミリオンライブ!、THE iDOLM@STER MILLION LIVE!）
  - LoveLive!系列
     - μ's
+ - IDOLY PRIDE系列
+    - 月のテンペスト
+    - サニーピース
+    - 長瀬麻奈
+    - TRINITYAiLE
+    - LizNoir
 
 #### 计算机
  - GNU/Linux
