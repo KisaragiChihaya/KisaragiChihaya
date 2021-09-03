@@ -118,8 +118,6 @@
     - 偶像大师 灰姑娘女孩 星光舞台（アイドルマスター シンデレラガールズ スターライトステージ、THE iDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE）
     - LoveLive! 学园偶像祭（ラブライブ！スクールアイドルフェスティバル、LoveLive! School iDOL festival）
     - LoveLive! 学园偶像祭 群星闪耀（ラブライブ！スクールアイドルフェスティバル ALL STARS、LoveLive! School iDOL festival All Stars）
-    - BanG Dream！少女乐团派对（バンドリ！ ガールズバンドパーティ！、BanG Dream！Girls Band Party）
-    - 歌之超时空要塞（歌マクロス スマホDeカルチャー）
     - 狂热节拍（ビートマニア、Beatmania）系列
     - 音律炫动（サウンド ボルテックス、SOUND VOLTEX）系列
     - 乐动魔方（ユビート、jubeat）系列
@@ -130,7 +128,6 @@
     - VOEZ
     - Dynamix
     - Phigros
-    - D4DJ Groovy Mix
  - 驾驶
     - 湾岸Mid-Night Maximum Tune系列
     - 头文字D Arcade Stage系列
