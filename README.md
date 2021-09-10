@@ -105,8 +105,8 @@
 
 #### 游戏
  - FPS
-    - 反恐精英：全球攻势（Counter-Strike: Global Offensive）
     - 叛乱：沙漠风暴（Insurgency: Sandstorm）
+    - 战术小队（Squad）
     - 泰坦陨落2（Titanfall 2）
  - 音乐节奏
     - 偶像大师 星耀季节（アイドルマスター スターリットシーズン、THE iDOLM@STER Starlit Season）
