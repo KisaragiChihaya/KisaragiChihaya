@@ -32,8 +32,8 @@
     - LizNoir
 
 #### 计算机
- - GNU/Linux
  - 自由软件
+ - GNU/Linux
  - 编程语言
     - C/C++
     - Python
