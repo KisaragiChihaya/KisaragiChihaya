@@ -1,5 +1,9 @@
 ## 介绍自己
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=KisaragiChihaya&count_private=true&show_icons=true&title_color=1264fb&icon_color=2743d2&locale=cn" />
+</a>
+
 こんにちは，私は中西です。はじめまして、どうぞよろしくお願いします。
 
 你好，我是中西 (a.k.a. Lynn "Nakanishi" Lin)，很高兴认识你。
