@@ -46,6 +46,7 @@
   - C
   - C++
   - Python
+- 脚本语言
   - JavaScript
 - 标记语言
   - HTML
@@ -61,8 +62,8 @@
   - J-Pop
   - Pop Rock
   - Indle Pop
-  - New Wave
   - City Pop
+  - New Wave
   - EDM
 - 歌手
   - 三森すずこ
@@ -70,14 +71,14 @@
   - 中森明菜
   - iri
   - 仮谷せいら
-  - あいみょん
   - 大比良瑞希
   - 別野加奈
   - 辻诗音
   - 安田レイ
 - 乐手
   - 西本りみ
-- 乐队 / 组合 - サカナクション
+- 乐队 / 组合
+  - サカナクション
   - 765THEATER ALLSTARS
   - μ's
   - 放課後ティータイム
