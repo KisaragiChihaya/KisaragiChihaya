@@ -1,197 +1,207 @@
-## 介绍自己
+English | [简体中文](./README.zh-Hans-CN.md)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=KisaragiChihaya&count_private=true&show_icons=true&title_color=1264fb&icon_color=2743d2&locale=cn" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=KisaragiChihaya&count_private=true&show_icons=true&title_color=1264fb&icon_color=2743d2" />
 </a>
 
-こんにちは，私は中西です。はじめまして、どうぞよろしくお願いします。
+Hello, I'm Lynn Lin (a.k.a Lynn Nakanishi). Welcome to my GitHub's profile!
 
-你好，我是中西 (a.k.a. Lynn "Nakanishi" Lin)，很高兴认识你。
+Actually I'm more of a translator than a programmer (You can see why I say that by looking at [my repositories](https://github.com/KisaragiChihaya?tab=repositories)).
 
-座右铭是“聯結中西，勿忘本心”：在成为联结中华和西洋的桥梁的同时，不要忘记自己的本心。
+If you're _iDOLM@STER_ and _IDOLY PRIDE_'s fans, you can [click here](https://github.com/765Pro-Hoshimi/welcome/issues/new/choose) to apply to join _[765プロダクション星見支社](https://github.com/765Pro-Hoshimi)_.
 
-喜欢研究各种事物，并因此开始尝试创作。
+You can download my PGP key on [here](./files/lynn-nakanishi.asc).
 
-### 兴趣
+## Interests and hobbies
 
-希望能遇见志同道合的你。
-
-#### 正在关注
+### Following
 
 <details>
-<summary>点击展开</summary>
+<summary>Click to expand</summary>
 
-##### 日本偶像
+#### Idol
 
-- 偶像大师系列
-  - 偶像大师（アイドルマスター、THE iDOLM@STER）
-  - 偶像大师 灰姑娘女孩（アイドルマスター シンデレラガールズ、THE iDOLM@STER CINDERELLA GIRLS）
-  - 偶像大师 百万现场！（アイドルマスター ミリオンライブ!、THE iDOLM@STER MILLION LIVE!）
-- LoveLive!系列
+- _THE iDOLM@STER_ series
+
+  - THE iDOLM@STER
+  - THE iDOLM@STER CINDERELLA GIRLS
+  - THE iDOLM@STER MILLION LIVE!
+- _LoveLive!_ series
+
   - μ's
-- IDOLY PRIDE 系列
-  - 月光风暴（月のテンペスト、Tsuki no Tempest / Moon Tempest）
-  - SUNNY PEACE（サニーピース）
-  - 長瀬麻奈
+- _IDOLY PRIDE_ series
+
+  - Tsuki no Tempest/Moon Tempest
+  - SUNNY PEACE
+  - Mana Nagase
   - TRINITYAiLE
   - LizNoir
-- 超时空要塞系列
-  - Walküre（ワルキューレ、Valkyrie）
+- _Macross_ series
 
-##### 计算机
+  - Walküre/Valkyrie
 
-- 自由软件
+#### Computer
+
+- Free/Libre Software
 - GNU/Linux
-- 编程语言
+- Programming language
+
   - C
   - C++
   - Python
-- 脚本语言
+- Scripting language
+
   - JavaScript
-- 标记语言
+- Markup language
+
   - HTML
   - CSS
   - Markdown
-- 3D 建模
+- 3D
+
   - Blender
-  - Cinema 4D
 
-##### 音乐
+#### Music
 
-- 流派
+- Music genre
+
   - J-Pop
   - Pop Rock
+  - Funk
   - Indle Pop
   - City Pop
   - New Wave
   - EDM
-- 歌手
-  - 三森すずこ
-  - 今井麻美
-  - 中森明菜
+- SInger
+
+  - Suzuko Momori
+  - Asami Imai
+  - Akina Nakamori
   - iri
-  - 仮谷せいら
-  - 大比良瑞希
-  - 別野加奈
-  - 辻诗音
-  - 安田レイ
-- 乐手
-  - 西本りみ
-- 乐队 / 组合
-  - サカナクション
+  - Seira Kariya
+  - Mizuki Ohira
+  - Kana Wakareno
+- Musician
+
+  - Rimi Nishimoto
+- Band
+
+  - sakanaction
   - 765THEATER ALLSTARS
   - μ's
-  - 放課後ティータイム
+  - Ho-kago Tea Time
   - Galileo Galilei→BBHF
-  - きのこ帝国
-  - スピッツ
+  - Kinoko Teikoku
+  - Spitz
   - NONA REEVES
   - Awesome City Club
   - SPiCYSOL
-  - パソコン音楽クラブ
+  - PASOCOM MUSIC CLUB
   - Humbert Humbert
-  - 水曜日のカンパネラ
-  - ずっと真夜中でいいのに。
-  - ヨルシカ
-  - YOASOBI
+  - Suiyoubi no Kampanera/Wednesday Campanella
+  - ZUTOMAYO/Zutto Mayonaka de Iinoni
+  - Yorushika
   - back number
   - ORESAMA
-  - Indigo La End & DADARAY & ゲスの極み乙女。
+  - Indigo La End & DADARAY & Gesu no Kiwami Otome
 
-##### 语言文字
+#### Language and writing system
 
-- 汉藏语系
-  - 现代标准汉语
-  - 官话
-  - 粤语
-- 日本－琉球语系
-  - 日语
-- 印欧语系
-  - 英语
-  - 德语
-  - 俄语
-  - 法语
+- Sino-Tibetan
 
-- 语言学与应用语言学
-- 汉语言文字学
-- 字体排印学与字体设计学
+  - Standard Chinese
+  - Mandarin Chinese
+  - Cantonese
+- Japonic
 
-##### 游戏
+  - Japanese
+- Indo-European
+
+  - English
+  - German
+  - Russian
+  - French
+
+- _Linguistics_ and _Applied linguistics_
+- Chinese linguistics
+- Typography
+
+#### Games
 
 - FPS
-  - 叛乱：沙漠风暴（Insurgency: Sandstorm）
-  - 战术小队（Squad）
-  - 泰坦陨落 2（Titanfall 2）
-- 音乐节奏
-  - 偶像大师 星耀季节（アイドルマスター スターリットシーズン、THE iDOLM@STER Starlit Season）
-  - 偶像大师 星光舞台（アイドルマスター ステラステージ、THE iDOLM@STER Stalla Stage）
-  - 偶像大师 白金星光（アイドルマスター プラチナスターズ、THE iDOLM@STER PLATINUM STARS）
-  - 偶像大师 全力以赴（アイドルマスター ワンフォーオール、THE iDOLM@STER ONE FOR ALL）
-  - 偶像大师 闪耀祭典（アイドルマスター シャイニーフェスタ、THE iDOLM@STER SHINY FESTA）
-  - 偶像大师 百万现场！ 剧场时光（アイドルマスター ミリオンライブ！ シアターデイズ、THE iDOLM@STER MILLION LIVE! THEATER DAYS）
-  - 偶像大师 灰姑娘女孩 星光舞台（アイドルマスター シンデレラガールズ スターライトステージ、THE iDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE）
-  - LoveLive! 学园偶像祭（ラブライブ！スクールアイドルフェスティバル、LoveLive! School iDOL festival）
-- 驾驶
-  - 湾岸 Mid-Night Maximum Tune 系列
-  - 头文字 D Arcade Stage 系列
-  - 极限竞速：地平线 4（Forza Horizon 4）
-  - 极限竞速：地平线 3（Forza Horizon 3）
-  - 极限竞速 6：巅峰（Forza Motorsport 6: Apex）
-  - 极品飞车（Need For Speed）
-  - 极品飞车：最高通缉（Need For Speed: Most Wanted）
-  - 极品飞车：复仇（Need for Speed: Payback）
-  - 飙酷车神 2（The Crew 2）
-  - 欧洲卡车模拟 2（Euro Truck Simulator 2）
-- 其他
-  - 偶像大师 POPLINKS（アイドルマスター ポップリンクス、THE iDOLM@STER POPLINKS）
-  - 偶像大师 闪耀色彩（アイドルマスター シャイニーカラーズ、THE iDOLM@STER SHINY COLORS）
-  - 偶像大师 灰姑娘女孩（アイドルマスター シンデレラガールズ、THE iDOLM@STER CINDERELLA GIRLS）
-  - 偶像大师 百万现场！（アイドルマスター ミリオンライブ!、THE iDOLM@STER MILLION LIVE!）
-  - LoveLive! 学园偶像祭：群星闪耀（ラブライブ！スクールアイドルフェスティバル ALL STARS、LoveLive! School iDOL festival All Stars）
-  - VA-11 Hall-A：赛博朋克酒保行动（VA-11 Hall-A: Cyberpunk Bartender Action）
-  - 极乐迪斯科（Disco Elysium）
-  - 城市：天际线（Cities: Skylines）
-  - 无人深空（No Man's Sky）
-  - 异星旅人（ASTRONEER）
-  - 微软模拟飞行（Microsoft Flight Simulator）
 
-##### 运输
+  - Insurgency: Sandstorm
+  - Squad
+  - Titanfall 2
+- Rhythm
 
-- 轨道交通
-  - 铁路及高速铁路
-  - 地铁
-  - 轻轨
-  - 有轨电车
-- 汽车
+  - THE iDOLM@STER SHINY FESTA
+  - THE iDOLM@STER MILLION LIVE! THEATER DAYS
+  - THE iDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE
+  - LoveLive! School iDOL festival
+- Driving
 
-##### 电子
+  - Forza Horizon 4
+  - Forza Horizon 3
+  - Forza Motorsport 6: Apex
+  - Need For Speed
+  - Need For Speed: Most Wanted
+  - Need for Speed: Payback
+  - The Crew 2
+  - Euro Truck Simulator 2
+- Others
+
+  - THE iDOLM@STER Starlit Season
+  - THE iDOLM@STER Stella Stage
+  - THE iDOLM@STER PLATINUM STARS
+  - THE iDOLM@STER ONE FOR ALL
+  - THE iDOLM@STER POPLINKS
+  - THE iDOLM@STER SHINY COLORS
+  - THE iDOLM@STER CINDERELLA GIRLS
+  - THE iDOLM@STER MILLION LIVE!
+  - LoveLive! School iDOL festival All Stars
+  - VA-11 Hall-A: Cyberpunk Bartender Action
+  - Disco Elysium
+  - Cities: Skylines
+  - No Man's Sky
+  - ASTRONEER
+  - Microsoft Flight Simulator
+
+#### Transport
+
+- Rail transport
+
+  - _Railway_ and _High-speed rail_
+  - _Rapid transit_ and _Mass rapid transit (MRT)_
+  - Light rail transit (LRT)
+  - Tram
+- Car
+
+#### Electrnic
 
 - Sony
 - Android
-- 摄影
-- 业余无线电
+- Photography
+- Amateur radio
 </details>
 
-#### 有兴趣
+### Interested in understanding
 
 <details>
-<summary>点击展开</summary>
+<summary>Click to expand</summary>
 
-- 少女 ☆ 歌剧 Revue Starlight 系列
 - Wake Up Girls!
-- 偶像活动！系列
-- 美妙系列
-- 秋元康
+- Yasushi Akimoto
 </details>
 
-#### 不活跃
+### Inactive
 
 <details>
-<summary>点击展开</summary>
+<summary>Click to expand</summary>
 
-- VOCALOID 系列
-- 东方 Project 系列
-- 阳炎 Project 系列
-- 天朝铁道少女
-- 轻音少女
+- VOCALOID
+- Touhou Project
+- Kagerou Project
+- China Railway Girl
+- K-ON!
 </details>
