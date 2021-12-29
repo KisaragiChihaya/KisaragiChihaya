@@ -1,4 +1,4 @@
-English | [简体中文](./README.zh-Hans-CN.md)
+**English | [简体中文（中国）](./README.zh-Hans-CN.md)**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=KisaragiChihaya&count_private=true&show_icons=true&title_color=1264fb&icon_color=2743d2" />
@@ -8,7 +8,7 @@ Hello, I'm Lynn Lin (a.k.a Lynn Nakanishi). Welcome to my GitHub's profile!
 
 Actually I'm more of a translator than a programmer (You can see why I say that by looking at [my repositories](https://github.com/KisaragiChihaya?tab=repositories)).
 
-If you're _iDOLM@STER_ and _IDOLY PRIDE_'s fans, you can [click here](https://github.com/765Pro-Hoshimi/welcome/issues/new/choose) to apply to join _[765プロダクション星見支社](https://github.com/765Pro-Hoshimi)_.
+If you're _iDOLM@STER_ and _IDOLY PRIDE_'s fans, you can [click here](https://github.com/765Pro-Hoshimi/welcome/issues/new/choose) to apply to join _[765 プロダクション星見支社](https://github.com/765Pro-Hoshimi)_.
 
 You can download my PGP key on [here](./files/lynn-nakanishi.asc).
 
@@ -26,9 +26,11 @@ You can download my PGP key on [here](./files/lynn-nakanishi.asc).
   - THE iDOLM@STER
   - THE iDOLM@STER CINDERELLA GIRLS
   - THE iDOLM@STER MILLION LIVE!
+
 - _LoveLive!_ series
 
   - μ's
+
 - _IDOLY PRIDE_ series
 
   - Tsuki no Tempest/Moon Tempest
@@ -36,6 +38,7 @@ You can download my PGP key on [here](./files/lynn-nakanishi.asc).
   - Mana Nagase
   - TRINITYAiLE
   - LizNoir
+
 - _Macross_ series
 
   - Walküre/Valkyrie
@@ -49,14 +52,17 @@ You can download my PGP key on [here](./files/lynn-nakanishi.asc).
   - C
   - C++
   - Python
+
 - Scripting language
 
   - JavaScript
+
 - Markup language
 
   - HTML
   - CSS
   - Markdown
+
 - 3D
 
   - Blender
@@ -72,6 +78,7 @@ You can download my PGP key on [here](./files/lynn-nakanishi.asc).
   - City Pop
   - New Wave
   - EDM
+
 - SInger
 
   - Suzuko Momori
@@ -81,9 +88,11 @@ You can download my PGP key on [here](./files/lynn-nakanishi.asc).
   - Seira Kariya
   - Mizuki Ohira
   - Kana Wakareno
+
 - Musician
 
   - Rimi Nishimoto
+
 - Band
 
   - sakanaction
@@ -112,9 +121,11 @@ You can download my PGP key on [here](./files/lynn-nakanishi.asc).
   - Standard Chinese
   - Mandarin Chinese
   - Cantonese
+
 - Japonic
 
   - Japanese
+
 - Indo-European
 
   - English
@@ -133,12 +144,14 @@ You can download my PGP key on [here](./files/lynn-nakanishi.asc).
   - Insurgency: Sandstorm
   - Squad
   - Titanfall 2
+
 - Rhythm
 
   - THE iDOLM@STER SHINY FESTA
   - THE iDOLM@STER MILLION LIVE! THEATER DAYS
   - THE iDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE
   - LoveLive! School iDOL festival
+
 - Driving
 
   - Forza Horizon 4
@@ -149,6 +162,7 @@ You can download my PGP key on [here](./files/lynn-nakanishi.asc).
   - Need for Speed: Payback
   - The Crew 2
   - Euro Truck Simulator 2
+
 - Others
 
   - THE iDOLM@STER Starlit Season
@@ -175,6 +189,7 @@ You can download my PGP key on [here](./files/lynn-nakanishi.asc).
   - _Rapid transit_ and _Mass rapid transit (MRT)_
   - Light rail transit (LRT)
   - Tram
+
 - Car
 
 #### Electrnic
