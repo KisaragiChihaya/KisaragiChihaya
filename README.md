@@ -93,7 +93,7 @@ You can download my PGP key on [here](./files/lynn-nakanishi.asc).
 
   - Rimi Nishimoto
 
-- Band
+- Band and group
 
   - sakanaction
   - 765THEATER ALLSTARS
@@ -165,6 +165,7 @@ You can download my PGP key on [here](./files/lynn-nakanishi.asc).
 
 - Others
 
+  - IDOLY PRIDE
   - THE iDOLM@STER Starlit Season
   - THE iDOLM@STER Stella Stage
   - THE iDOLM@STER PLATINUM STARS
