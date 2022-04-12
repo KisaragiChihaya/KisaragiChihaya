@@ -79,7 +79,7 @@ You can download my PGP key on [here](./files/lynn-nakanishi.asc).
   - New Wave
   - EDM
 
-- SInger
+- Singer
 
   - Suzuko Momori
   - Asami Imai
